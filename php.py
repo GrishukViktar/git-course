@@ -9,3 +9,4 @@ for elem in point:
     if elem == 2:
         print('Yes')
 time.sleep(2.4)
+print ("Привет Мазефакеры!")
